@@ -28,7 +28,7 @@
  <details>
     <p>
 
-*  <details><summary><strong>Atividade N**</strong>: Pasta referente à atividade N em questão</summary>
+*  <details><summary><strong>Atividade N</strong> - Pasta referente à atividade N em questão</summary>
     <p>
 
    * `controller` - Códigos a serem executados
